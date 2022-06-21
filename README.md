@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt! <br/><a href="https://github.com/msolomon93/MiT-XPRO-MERN-Stack">Current Student enroleld with MITXPRO</a></h1>
+<h1>Hi, I'm Matt! <br/><a href="https://github.com/msolomon93/MiT-XPRO-MERN-Stack">Current Student enrolled with MITXPRO</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
