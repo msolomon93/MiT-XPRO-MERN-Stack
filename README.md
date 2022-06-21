@@ -1,8 +1,18 @@
-# MiT-XPRO-MERN-Stack
+<h1>Hi, I'm Matt! <br/><a href="https://github.com/msolomon93/MiT-XPRO-MERN-Stack">Current Student enroleld with MITXPRO</a></h1>
 
-Here I will include all of the materials I work on and create for the MiT XPRO course. Although its starting off with very simple coding exercises  I am very excited to add more and more complex examples of my technical proficiency  and ability to learn and grow.
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Will Update with Future Projects</b>
 
 
 
-#ContactMe
-If any questions arise please feel free to contact me at matt.solomon93@gmail.com
+<h2> 🤳 Where to Reach Me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/msolomon42
+[instagram]: https://www.instagram.com/msolomon93/
+[linkedin]: https://linkedin.com/in/matthew-solomon-8ba39b93
+
