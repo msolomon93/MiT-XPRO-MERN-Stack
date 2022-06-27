@@ -7,4 +7,4 @@ This weeks assignment was to create a set of eyes on screen using independent sh
 The "pupils" also follow the cursor around the screen accurately.
 
 
-<img src="img/eyes.jpg" width = '300'/>
+<img src="eyes.jpg" width = '300'/>
