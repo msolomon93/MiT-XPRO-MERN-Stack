@@ -1,6 +1,6 @@
-#Eye Movement
+<h1>Eye Movement</h1>
 
-##The Assignment:
+<h2>The Assignment:</h2>
 
 This weeks assignment was to create a set of eyes on screen using independent shapes with individual movement restrictions. 
 
