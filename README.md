@@ -17,8 +17,11 @@
 
 <h2>👨‍💻 Class Project Highlights:</h2>
 
-- <b>Will Update with Future Projects</b>
+- <b> <a href="https://github.com/msolomon93/MiT-XPRO-MERN-Stack/tree/main/Eye%20Creation%20%2B%20Movement">Eye Creation and Movement Tracking</a></b>
 
+- <b><a href="https://github.com/msolomon93/MiT-XPRO-MERN-Stack/tree/main/Map%20Animation">Map Movement</a></b>
+
+- <b><a href="https://github.com/msolomon93/MiT-XPRO-MERN-Stack/tree/main/Ball%20Creation%20%2B%20Movement">Shape Creation/Movement</a></b>
 
 
 <h2> 🤳 Where to Reach Me:</h2>
