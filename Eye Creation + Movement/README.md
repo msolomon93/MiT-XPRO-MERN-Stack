@@ -24,3 +24,11 @@ The "pupils" also follow the cursor around the screen accurately.
 
 
 <img src="eyes.jpg" width = '300'/>
+
+<h1>How to Access</h1>
+
+- Download all files in repo
+
+- Open File Explorer
+
+- Open index.html in your browser
