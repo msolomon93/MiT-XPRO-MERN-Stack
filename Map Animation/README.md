@@ -17,3 +17,11 @@
 
 <h2>The Assignment</h2>
 This weeks assignment was to create a constantly updating map of pre arranged coordinates illustrating a bus routes progress from MIT's campus to Cambridge
+
+<h1>How to Access</h1>
+
+- Download all files in repo
+
+- Open File Explorer
+
+- Open index.html in your browser
