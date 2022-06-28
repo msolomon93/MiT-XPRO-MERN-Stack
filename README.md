@@ -33,3 +33,5 @@
 [instagram]: https://www.instagram.com/msolomon93/
 [linkedin]: https://linkedin.com/in/matthew-solomon-8ba39b93
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msolomon93)](https://github.com/anuraghazra/github-readme-stats)
+
