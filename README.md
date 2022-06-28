@@ -10,7 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=msolomon93&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>Hi, I'm Matt! <br/><a href="https://github.com/msolomon93/MiT-XPRO-MERN-Stack">Current Student enrolled with MITXPRO</a></h1>
+<h1 align="center">Hi, I'm Matt! Current Student enrolled with MITXPRO<br/><a href="https://github.com/msolomon93/msolomon93.github.io">Click here to view my Portfolio</a></h1>
+
+<h2 align="center">I will be using the repository to store my current assignments before they go into my portfolio</h2>
 
 <h2>👨‍💻 Class Project Highlights:</h2>
 
