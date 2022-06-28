@@ -17,3 +17,11 @@
 
 <h2>The Assignment</h2>
 Was tasked with creating a ball and having it bounce off the corners of the screen. Included 3 more at varying sizes, shapes, and speeds.
+
+<h1>How to Access</h1>
+
+- Download all files in repo
+
+- Open File Explorer
+
+- Open index.html in your browser
