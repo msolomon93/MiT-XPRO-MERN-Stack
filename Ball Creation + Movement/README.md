@@ -13,5 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=msolomon93&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>The Assignment</h1>
+<h1>Ball Creation and Movement</h1>
+
+<h2>The Assignment</h2>
 Was tasked with creating a ball and having it bounce off the corners of the screen. Included 3 more at varying sizes, shapes, and speeds.
