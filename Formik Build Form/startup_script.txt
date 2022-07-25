@@ -1,0 +1,5 @@
+wget -q -O /tmp/node_modules.zip https://www.dropbox.com/s/trpd9eg7f3xq7zt/node_modules.zip?dl=0
+mkdir -p /home/nt-user/workspace/node_modules/
+unzip -qq /tmp/node_modules.zip -d /home/nt-user/workspace/
+rm -f /tmp/node_modules.zip
+cd /home/nt-user/workspace && npm start
