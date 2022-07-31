@@ -17,7 +17,21 @@
 
 This weeks assignment was to create a a reactive ToDo list in React, adding styles and funcionality in order to be able to edit the list in real time
 
+<h1>How to Run</h1>
 
+Download the files to your computer.
+
+Navigate to the project's root folder
+
+If it is not already installed, run the below command to install http-server:
+
+<h3> npm install http-server </h3>
+ 
+Enter the below commands via the terminal from within the project root folder:
+
+ <h3> http-server -c-1 </h3>
+ 
+Follow the prompts to open the project in a browser window.
 
 
 ## License
