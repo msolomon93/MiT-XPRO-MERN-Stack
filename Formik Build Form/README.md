@@ -18,7 +18,21 @@
 This weeks assignment was to create a Formik form with seperate validations and error messages that are reactive to the contents of their text box.
 
 
+<h1>How to Run</h1>
 
+Download the files to your computer.
+
+Navigate to the project's root folder
+
+If it is not already installed, run the below command to install http-server:
+
+<h3> npm install http-server </h3>
+ 
+Enter the below commands via the terminal from within the project root folder:
+
+ <h3> http-server -c-1 </h3>
+ 
+Follow the prompts to open the project in a browser window.
 
 ## License
 Copyright 2022 MIT
