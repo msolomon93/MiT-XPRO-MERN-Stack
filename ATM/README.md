@@ -20,19 +20,19 @@ This weeks assignment was to create a functional ATM that allows updating based 
 
 <h1>How to Run</h1>
 
-Download the files to your computer.
+<li>Download the files to your computer.</li>
 
-Navigate to the project's root folder
+<li>Navigate to the project's root folder</li>
 
-If it is not already installed, run the below command to install http-server:
+<li>If it is not already installed, run the below command to install http-server:</li>
 
 <h3> npm install http-server </h3>
  
-Enter the below commands via the terminal from within the project root folder:
+<li>Enter the below commands via the terminal from within the project root folder:</li>
 
  <h3> http-server -c-1 </h3>
  
-Follow the prompts to open the project in a browser window.
+<li>Follow the prompts to open the project in a browser window.</li>
 
 ## License
 Copyright 2022 MIT
